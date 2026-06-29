@@ -95,7 +95,7 @@ The interactive dashboard includes:
 
 ## 📷 Dashboard Preview
 
-Dashboard screenshots are available in the [https://github.com/Manuchavhan/Ecommerce-Sales-Analysis/blob/main/snapshot_dashboard.pngfolder.]
+Dashboard screenshots are available in the [https://github.com/Manuchavhan/Ecommerce-Sales-Analysis/blob/main/snapshot_dashboard.png]
 
 ---
 
