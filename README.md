@@ -95,7 +95,7 @@ The interactive dashboard includes:
 
 ## 📷 Dashboard Preview
 
-Dashboard screenshots are available in the **** folder.
+Dashboard screenshots are available in the [https://github.com/Manuchavhan/Ecommerce-Sales-Analysis/blob/main/snapshot_dashboard.pngfolder.]
 
 ---
 
@@ -115,5 +115,5 @@ Dashboard screenshots are available in the **** folder.
 This project demonstrates how SQL and Power BI can be used together to transform raw e-commerce data into interactive dashboards and meaningful business insights for data-driven decision-making.
 
 
-This project demonstrates how SQL and Power BI can be used together to transform raw e-commerce data into interactive dashboards and meaningful business insights for data-driven decision-making.
+This project demonstrates how SQL and Power BI can be used together to transform raw e-commerce dfor data-driven decision-making.
 # Ecommerce-Sales-Analysis# Ecommerce-Sales-Analysis
